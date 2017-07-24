@@ -25,38 +25,38 @@ div[class*="user-info"] div[class*="status"] {
 .theme-dark div[class*="avatar-"] div[class*="online"],
 .theme-dark div[class*="avatar-"] div[class*="Online"],
 #user-profile-modal div[class*="online"] {
-    border-color: #43b581 !important;
+    border-color: #00D1FF !important;
 }
 
 .theme-dark div[class*="avatar-"] div[class*="idle"],
 .theme-dark div[class*="avatar-"] div[class*="Idle"],
 #user-profile-modal div[class*="idle"] {
-    border-color: #faa61a !important;
+    border-color: #FF4848 !important;
 }
 
 .theme-dark div[class*="avatar-"] div[class*="dnd"],
 .theme-dark div[class*="avatar-"] div[class*="Dnd"],
 #user-profile-modal div[class*="dnd"] {
-    border-color: #f04747 !important;
+    border-color: #6E25FF !important;
 }
 
 .theme-dark div[class*="avatar-"] div[class*="streaming"],
 .theme-dark div[class*="avatar-"] div[class*="Streaming"],
 #user-profile-modal div[class*="streaming"]{
     animation: streaming-flash 1.5s linear infinite !important;
-    border-color: #643da7 !important;
+    border-color: #24006C !important;
 }
 
 .theme-dark div[class*="avatar-"] div[class*="invisible"],
 .theme-dark div[class*="avatar-"] div[class*="Invisible"],
 #user-profile-modal div[class*="invisible"] {
-    border-color: #747f8d !important;
+    border-color: #181818 !important;
 }
 
 .theme-dark div[class*="avatar-"] div[class*="offline"],
 .theme-dark div[class*="avatar-"] div[class*="Offline"],
 #user-profile-modal div[class*="offline"] {
-    border-color: #636b75 !important;
+    border-color: #0A0A0A !important;
 }
 
 .channel-members .member.member-status-offline .status {
